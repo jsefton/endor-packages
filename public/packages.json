@@ -43,6 +43,10 @@
         {
             "url": "git@github.com:jsefton/package-template.git",
             "key": "package-template"
+        },
+        {
+            "url": "git@github.com:jsefton/laravel-queue-logger.git",
+            "key": "laravel-queue-logger"
         }
     ]
 }
