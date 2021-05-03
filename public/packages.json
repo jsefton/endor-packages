@@ -49,7 +49,7 @@
             "key": "laravel-queue-logger"
         },
         {
-            "url": "git@github.com:jsefton/revisionabler.git",
+            "url": "git@github.com:jsefton/revisionable.git",
             "key": "revisionable"
         },
         {
