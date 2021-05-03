@@ -55,6 +55,10 @@
         {
             "url": "git@github.com:jsefton/laravel-resourceable.git",
             "key": "laravel-resourceable"
+        },
+        {
+            "url": "git@github.com:jsefton/laravel-mail-audit.git",
+            "key": "laravel-mail-audit"
         }
     ]
 }
