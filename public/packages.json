@@ -59,6 +59,14 @@
         {
             "url": "git@github.com:jsefton/laravel-mail-audit.git",
             "key": "laravel-mail-audit"
+        },
+        {
+            "url": "git@github.com:jsefton/endor-project-manager.git",
+            "key": "endor-project-manager"
+        },
+        {
+            "url": "git@github.com:jsefton/server-manager.git",
+            "key": "server-manager"
         }
     ]
 }
