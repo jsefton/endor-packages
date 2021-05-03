@@ -47,6 +47,14 @@
         {
             "url": "git@github.com:jsefton/laravel-queue-logger.git",
             "key": "laravel-queue-logger"
+        },
+        {
+            "url": "git@github.com:jsefton/revisionabler.git",
+            "key": "revisionable"
+        },
+        {
+            "url": "git@github.com:jsefton/laravel-resourceable.git",
+            "key": "laravel-resourceable"
         }
     ]
 }
