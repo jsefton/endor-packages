@@ -39,6 +39,10 @@
         {
             "url": "git@github.com:jsefton/laravel-virtual-fields.git",
             "key": "laravel-virtual-fields"
+        },
+        {
+            "url": "git@github.com:jsefton/package-template.git",
+            "key": "package-template"
         }
     ]
 }
