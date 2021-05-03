@@ -35,6 +35,10 @@
         {
             "url": "git@github.com:jsefton/endor-packages.git",
             "key": "endor-packages"
+        },
+        {
+            "url": "git@github.com:jsefton/laravel-virtual-fields.git",
+            "key": "laravel-virtual-fields"
         }
     ]
 }
