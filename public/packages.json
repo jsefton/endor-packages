@@ -1,0 +1,13 @@
+{
+    "packages": [
+        "git@github.com:jsefton/endor-core.git",
+        "git@github.com:jsefton/endor-cms.git",
+        "git@github.com:jsefton/endor-admin.git",
+        "git@github.com:jsefton/endor-payments.git",
+        "git@github.com:jsefton/endor-commerce.git",
+        "git@github.com:jsefton/endor-password-protect.git",
+        "git@github.com:jsefton/endor-mail-audit.git",
+        "git@github.com:jsefton/endor-invoicing.git",
+        "git@github.com:jsefton/endor-packages.git"
+    ]
+}
