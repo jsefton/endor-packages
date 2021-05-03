@@ -71,6 +71,10 @@
         {
             "url": "git@github.com:jsefton/laravel-mailing-list.git",
             "key": "laravel-mailing-list"
+        },
+        {
+            "url": "git@github.com:jsefton/endor-email-marketing.git",
+            "key": "endor-email-marketing"
         }
     ]
 }
